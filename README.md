@@ -32,7 +32,9 @@
  <ol>
    <li> Hasilnya :</br>
      
-  ![Screenshot_285](https://user-images.githubusercontent.com/24362384/121691995-cf5f7200-caf1-11eb-8e30-df1594281a12.png)
+![Screenshot_287](https://user-images.githubusercontent.com/24362384/121695388-36325a80-caf5-11eb-840b-5060516b9881.png)
 
-  ![Screenshot_286](https://user-images.githubusercontent.com/24362384/121692114-f28a2180-caf1-11eb-8613-ca84fa2be9dc.png)
+![Screenshot_289](https://user-images.githubusercontent.com/24362384/121695405-392d4b00-caf5-11eb-8dd9-db86bd5b0b92.png)
+
+![Screenshot_288](https://user-images.githubusercontent.com/24362384/121695423-3af70e80-caf5-11eb-8f2b-a756f40b4c9d.png)
 
